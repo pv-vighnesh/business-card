@@ -7,11 +7,11 @@ import Styles from "./App.css";
 
 export default function App() {
     return (
-        <>
+        <div>
             <Info />
             <About />
             <Interests />
             <Links />
-        </>
+        </div>
     )
 }
